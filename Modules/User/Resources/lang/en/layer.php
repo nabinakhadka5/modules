@@ -6,5 +6,8 @@
  * Time: 10:32 PM
  **/
 return [
-    'home.title' => 'Home'
+    'home.title' => 'Home',
+    'about.title' => 'About',
+    'blog.title' => 'Blog',
+    'product.title' => 'Product'
 ];

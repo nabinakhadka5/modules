@@ -6,6 +6,7 @@
 </head>
 <body class="animsition">
     @include('user::elements.header')
+    @include('user::elements.header_cart')
     @yield('content')
 
     @include('user::elements.footer')
