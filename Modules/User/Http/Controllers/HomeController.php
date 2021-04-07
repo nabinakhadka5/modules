@@ -11,6 +11,7 @@ class HomeController extends Controller
 {
     public function index(){
         try {
+
             $data['common'] = Helpers::titleAction([__('user::layer.home.title')]);
             return view('user::home.index', compact('data'));
         } catch (\Exception $e){
