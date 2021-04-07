@@ -1,4 +1,4 @@
-<div class="page-wrapper">
+
     <!-- START HEADER-->
     <header class="header">
         <div class="page-brand">
